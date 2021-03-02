@@ -40,11 +40,6 @@ import androidx.compose.ui.tooling.preview.Preview
 import androidx.compose.ui.unit.dp
 import com.example.androiddevchallenge.model.Puppy
 
-/**
- * @author Shaun
- * @date 21/3/2
- */
-
 const val PUPPY = "puppy_adopted"
 
 class PuppyPortraitActivity : AppCompatActivity() {

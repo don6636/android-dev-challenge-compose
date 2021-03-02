@@ -21,10 +21,6 @@ import androidx.compose.runtime.Immutable
 import com.example.androiddevchallenge.R
 import kotlinx.parcelize.Parcelize
 
-/**
- * @author Shaun
- * @date 21/3/2
- */
 @Immutable
 @Parcelize
 data class Puppy(
