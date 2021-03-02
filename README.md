@@ -1,4 +1,4 @@
-# Put title of your app here
+# AndroidDevChallenge
 ![Workflow result](https://github.com/shaunu11/android-dev-challenge-compose/workflows/Check/badge.svg)
 
 
